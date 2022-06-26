@@ -1,6 +1,4 @@
 # Operational Stock
 
-A program that obtains data from sales made throghout a period of time as well as data from pre-registered products to determine if and how much should be transferred from storage to the operational center.
-  Operational Stock
-
-Sorteio is a small project developed by me as a college assignment during March of 2022. The proposal of the assignment was to make a guess the number type of game using only Batch. Had a lot of fun doing this, and even though it's just text, I think the UI came out really good.
+  Operational Stock is a program developed by me and dry as a college assigment during May of 2022. To summarize, the proposal of the assignment was to make a program that obtains data from sales made throghout a period of time as well as data from pre-registered products to determine if and how much should be transferred from storage to the operational center, written in C.
+  It was definitely an easier task to make this one, not because the task itself was objectively easier but because while making the previous assignment (Totais de Vendas) I've got to learn a lot of really useful things.
